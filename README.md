@@ -1,1 +1,1 @@
-# nodejs_myBlog in main branch
+# nodejs_myBlog in master branch
